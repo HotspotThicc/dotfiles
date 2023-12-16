@@ -290,6 +290,7 @@
 	"kate",
 	"konsole",
 	"picom",
+	"ark",
         "flatpak"
     ],
     "parallel downloads": 0,
